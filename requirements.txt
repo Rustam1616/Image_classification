@@ -1,3 +1,0 @@
-pandas
-re
-matplotlib.pyplot
